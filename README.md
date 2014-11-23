@@ -1,10 +1,11 @@
 PIC-Prototyping
 ===============
+Developed by: Dan Sweeney & Chris Idelson
+Initial Commit: 23 Nov. 2014
+Last Updated: 23 Nov. 2014
 
-PIC Prototyping board and sample code for use in the MPLab IDE
-
-This board and associated code is meant to be used with the PICKit3 programming interface with the PIC24
-on the LuckyPIC board. The board itself contains the following hardware:
+This board and associated samplecode is meant to be used with the PICKit3 programming interface with 
+the PIC24 on the LuckyPIC board. The board itself contains the following hardware:
 
 1. 2.0/2.1mm DC Barrel jack with REG1117 +5V regulator
 2. Push button 
