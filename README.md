@@ -1,7 +1,9 @@
 PIC-Prototyping
 ===============
 Developed by: Dan Sweeney & Chris Idelson
+
 Initial Commit: 23 Nov. 2014
+
 Last Updated: 23 Nov. 2014
 
 This board and associated samplecode is meant to be used with the PICKit3 programming interface with 
