@@ -1,6 +1,6 @@
 PIC-Prototyping
 ===============
-Developed by: Dan Sweeney & Chris Idelson
+Developed by: Dan Sweeney, Melvin Barney & Chris Idelson
 
 Initial Commit: 23 Nov. 2014
 
